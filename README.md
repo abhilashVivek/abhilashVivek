@@ -1,6 +1,6 @@
 # Hello, I'm Abhilash Vivek 👋
 
-Welcome to my GitHub profile! I'm a passionate cybersecurity student with a focus on cloud security. Here, you'll discover a collection of projects and contributions that reflect my journey and skills in the field.
+Welcome to my GitHub profile! I'm a passionate cybersecurity student with a focus on cloud security. Here, you'll soon discover a collection of projects and contributions that reflect my journey and skills in the field.
 
 ## Learning Journey in Cybersecurity 🌐🔒
 
