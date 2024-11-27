@@ -1,29 +1,37 @@
-# Hello, I'm Abhilash Vivek 👋
+# Welcome to My GitHub! 👋
 
-Welcome to my GitHub profile! I'm a passionate cybersecurity student with a focus on cloud security. Here, you'll soon discover a collection of projects and contributions that reflect my journey and skills in the field.
+Hi, I'm **Abhilash Vivek**, an experienced **Infosec Consultant** with a strong background in **security architecture and engineering**. My GitHub profile reflects my professional journey in managing and securing enterprise infrastructure across **multi-cloud and hybrid environments**.
 
-## Learning Journey in Cybersecurity 🌐🔒
+---
+
+## About Me 🌐🔒
 
 ### Professional Experience 💼
-I kickstarted my journey with an internship at a cybersecurity consultancy firm. This hands-on experience allowed me to apply theoretical knowledge to real-world scenarios, enhancing my problem-solving skills and providing insights into the practical aspects of the field.
+I bring over four years of expertise in designing secure infrastructure solutions for **cloud and hybrid environments**. Currently, I work with the **security architecture and engineering team at Tredence Inc.**, contributing to critical projects focused on **information security and compliance**. My previous roles have given me hands-on experience with **security configuration, access control, and infrastructure hardening**.
 
 ### Certifications 🏆
-Proudly certified by ISC2 in cybersecurity, validating my expertise and opening doors to new possibilities in the cybersecurity landscape.
+- **AWS Certified Security – Specialty (SCS-C02)**
+- **Microsoft Certified: Azure Security Engineer Associate (AZ-500)**
+- **EC-Council Certified Ethical Hacker (CEH v12)**
+- **ISC2 Certified in Cybersecurity (CC)**
 
-### Ongoing Education 📚
-Currently pursuing an M.Tech program in Cybersecurity Systems and Network, covering a broad spectrum of cybersecurity domains—from network and system security to cryptography, blockchain, machine learning, IoT security, cyber forensics, and modern web application security.
+These certifications validate my expertise in cloud security, ethical hacking, and enterprise-grade security solutions.
 
-### AWS Certification Journey ☁️
-Actively preparing for the AWS Solutions Architect certification, a pivotal step in my journey. Future plans include specializing in AWS Security through the AWS Security Specialist certification—aligning with the evolving landscape of cloud security.
+### Skills and Interests 🎯
+- **Security Architecture Design**: Crafting resilient and scalable security solutions.
+- **Multi-Cloud Expertise**: Managing AWS, Azure, and hybrid environments.
+- **Forensics and Compliance**: Conducting cyber investigations and ensuring adherence to frameworks like SAMA.
+- **Offensive Security**: Specialized in ethical hacking and penetration testing.
 
-### Conferences and Networking 🤝
-Understanding the importance of staying abreast of industry trends, I actively participate in cybersecurity conferences and events. These experiences provide exposure to the latest developments and foster valuable connections with like-minded individuals.
+---
 
-## Connect with Me 🌐
+## Let’s Connect 🌐
+Collaboration is at the core of innovation. Feel free to reach out or explore my journey further:
 
-- LinkedIn: [linkedin.com/in/abhilashvivek](https://linkedin.com/in/abhilashvivek)
-- E-Mail: abhilashvivek@gmail.com
+- **[LinkedIn](https://linkedin.com/in/abhilashvivek)**  
+- **Email**: abhilashvivek@gmail.com  
+
+---
 
 ## Thank You for Visiting! 🙏
-
-Thanks for taking the time to explore my GitHub profile! If you found something intriguing or have any questions, feel free to reach out. I'm always open to collaboration, discussions, and feedback.
+I appreciate your time and interest in my GitHub profile. If you’d like to discuss ideas, collaborate on projects, or share feedback, I’d love to connect!
